@@ -1,5 +1,10 @@
 # 👋 Hi, I'm King Bonheur Nd.
 
+
+<p align="center">
+  <img src="https://tenor.com/bM2a1.gif" />
+</p>
+
 💻 **Software Developer | Tech Enthusiast | Problem Solver**  
 Passionate about building modern, efficient, and scalable applications.  
 
