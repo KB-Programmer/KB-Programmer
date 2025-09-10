@@ -2,9 +2,9 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTE4OGljdnJmeGY0cmF5NjEydXk2aHBwemhlbWF4ZWk5MWsxZ2lweCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/H7NY2KgHRyRxQ1wZu0/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVocnczdW1ubXh2dWZpdGkycHAyM2lwcGp3eGg3ZmN0YWdncnE2cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTE4OGljdnJmeGY0cmF5NjEydXk2aHBwemhlbWF4ZWk5MWsxZ2lweCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lOgu1OnjYF2GHBfRU4/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTE4OGljdnJmeGY0cmF5NjEydXk2aHBwemhlbWF4ZWk5MWsxZ2lweCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/H7NY2KgHRyRxQ1wZu0/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVocnczdW1ubXh2dWZpdGkycHAyM2lwcGp3eGg3ZmN0YWdncnE2cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTE4OGljdnJmeGY0cmF5NjEydXk2aHBwemhlbWF4ZWk5MWsxZ2lweCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lOgu1OnjYF2GHBfRU4/giphy.gif" width="200" />
 </p>
 
 💻 **Software Developer | Tech Enthusiast | Problem Solver**  
